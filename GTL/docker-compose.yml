@@ -1,0 +1,27 @@
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: gtl
+      RABBITMQ_DEFAULT_PASS: gtlpassword
+
+  catalog-db:
+    image: postgres:16
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: catalog
+      POSTGRES_PASSWORD: catalogpw
+      POSTGRES_DB: catalogdb
+
+  search-db:
+    image: postgres:16
+    ports:
+      - "5434:5432"
+    environment:
+      POSTGRES_USER: search
+      POSTGRES_PASSWORD: searchpw
+      POSTGRES_DB: searchdb
