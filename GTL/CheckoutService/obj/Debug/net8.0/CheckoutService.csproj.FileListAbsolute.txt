@@ -1,0 +1,8 @@
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.csproj.AssemblyReference.cache
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.AssemblyInfoInputs.cache
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.AssemblyInfo.cs
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.csproj.CoreCompileInputs.cache
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.MvcApplicationPartsAssemblyInfo.cs
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktortindula/Library/CloudStorage/OneDrive-Personal/UCN/7 semester project/GTL-7-semester-microservices-project/GTL/CheckoutService/obj/Debug/net8.0/CheckoutService.sourcelink.json

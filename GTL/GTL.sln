@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchService", "SearchServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{0BCB2ADA-1ABB-47AC-8311-8BE21251602F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutService", "CheckoutService\CheckoutService.csproj", "{6997DFF4-81B7-4075-8E17-73A94FA86DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{8F81FDEC-AFFC-401A-99E6-919F2453F4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactFrontend", "ReactFrontend\ReactFrontend.csproj", "{20C2546F-4C6B-4167-AC0D-BF7885C74B99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{0BCB2ADA-1ABB-47AC-8311-8BE21251602F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCB2ADA-1ABB-47AC-8311-8BE21251602F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCB2ADA-1ABB-47AC-8311-8BE21251602F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6997DFF4-81B7-4075-8E17-73A94FA86DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6997DFF4-81B7-4075-8E17-73A94FA86DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6997DFF4-81B7-4075-8E17-73A94FA86DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6997DFF4-81B7-4075-8E17-73A94FA86DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F81FDEC-AFFC-401A-99E6-919F2453F4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F81FDEC-AFFC-401A-99E6-919F2453F4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F81FDEC-AFFC-401A-99E6-919F2453F4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F81FDEC-AFFC-401A-99E6-919F2453F4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C2546F-4C6B-4167-AC0D-BF7885C74B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C2546F-4C6B-4167-AC0D-BF7885C74B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C2546F-4C6B-4167-AC0D-BF7885C74B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C2546F-4C6B-4167-AC0D-BF7885C74B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
